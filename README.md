@@ -1,7 +1,7 @@
 # Plotting *Gravity's Rainbow*
 ## Supporting Files for Katie Muth, 'Digital Readings', in *The New Pynchon Studies*, ed. Joanna Freer (Cambridge: Cambridge University Press, 2019)
 
-This repository stores network visualizations of Thomas Pynchon's Gravity's Rainbow developed with David McClure's <a href = "https://github.com/davidmcclure/textplot">Textplot</a> and rendered in <a href = "https://gephi.org/">Gephi</a>. The following are  images from the print publication, but watch this space for interactive and high res versions. 
+This repository stores network visualizations of Thomas Pynchon's Gravity's Rainbow developed with David McClure's <a href = "https://github.com/davidmcclure/textplot">Textplot</a> and rendered in <a href = "https://gephi.org/">Gephi</a>. The following are images from the print publication, but watch this space for interactive and high res versions. 
 
 [![Figure 1](/static-images/Figure-1.png)](https://raw.githubusercontent.com/krmuth/plot-gr/master/static-images/Figure-1.png "Figure 1")
 ---
