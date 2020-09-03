@@ -3,7 +3,7 @@
 
 This repository stores network visualizations of Thomas Pynchon's Gravity's Rainbow developed with David McClure's <a href = "https://github.com/davidmcclure/textplot">Textplot</a> and rendered in <a href = "https://gephi.org/">Gephi</a>. The following are images from the print publication, but watch this space for interactive and high res versions. 
 
-* [Test example](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/gravitys-rainbow/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/index.html)) 
+* [Test example](https://github.com/krmuth/plot-gr/3d-vis/visualisations/gravitys-rainbow/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/index.html)) 
 
 [![Figure 1](/static-images/Figure-1.png)](https://raw.githubusercontent.com/krmuth/plot-gr/master/static-images/Figure-1.png "Figure 1")
 ---
