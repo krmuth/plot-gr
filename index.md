@@ -7,3 +7,13 @@ This repository stores network visualizations of Thomas Pynchon's Gravity's Rain
 
 * [Robinson Crusoe verbs](https://krmuth.github.io/plot-gr/visualisations/crusoe/verbs/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/crusoe/verbs/index.html)) 
 
+* [Great Expectations verbs](https://krmuth.github.io/plot-gr/visualisations/great-expectations/verbs/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/great-expectations/verbs/index.html)) 
+
+* [The Crying of Lot 49 verbs](https://krmuth.github.io/plot-gr/visualisations/lot-49/verbs/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/lot-49/verbs/index.html)) 
+
+* [Moby-Dick verbs](https://krmuth.github.io/plot-gr/visualisations/moby-dick/verbs/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/moby-dick/verbs/index.html)) 
+
+* [Sister Carrie verbs](https://krmuth.github.io/plot-gr/visualisations/sister-carrie/verbs/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/sister-carrie/verbs/index.html)) 
+
+* [Ulysses verbs](https://krmuth.github.io/plot-gr/visualisations/ulysses/verbs/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/ulysses/verbs/index.html)) 
+
