@@ -7,7 +7,7 @@ This repository stores 3D network visualizations of seven novels, including Grav
 
 * [Gravity's Rainbow verbs](https://krmuth.github.io/plot-gr/visualisations/gravitys-rainbow/verbs/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/gravitys-rainbow/verbs/index.html))  
 
-* [Gravity's Rainbow verb ego network](https://krmuth.github.io/plot-gr/visualisations/gravitys-rainbow/verego/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/gravitys-rainbow/verbego/index.html))  
+* [Gravity's Rainbow verb ego network](https://krmuth.github.io/plot-gr/visualisations/gravitys-rainbow/verbego/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/gravitys-rainbow/verbego/index.html))  
 
 * [Gravity's Rainbow verb tense poles](https://krmuth.github.io/plot-gr/visualisations/gravitys-rainbow/tensego/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/gravitys-rainbow/tensego/index.html))  
 
