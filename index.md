@@ -7,6 +7,10 @@ This repository stores 3D network visualizations of seven novels, including Grav
 
 * [Gravity's Rainbow verbs](https://krmuth.github.io/plot-gr/visualisations/gravitys-rainbow/verbs/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/gravitys-rainbow/verbs/index.html))  
 
+* [Gravity's Rainbow verb ego network](https://krmuth.github.io/plot-gr/visualisations/gravitys-rainbow/verb-egonet/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/gravitys-rainbow/verb-egonet/index.html))  
+
+* [Gravity's Rainbow past-present poles](https://krmuth.github.io/plot-gr/visualisations/gravitys-rainbow/pastpres-egonet/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/gravitys-rainbow/pastpres-egonet/index.html))  
+
 * [Robinson Crusoe default stopwords](https://krmuth.github.io/plot-gr/visualisations/crusoe/stopwords/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/crusoe/stopwords/index.html)) 
 
 * [Robinson Crusoe verbs](https://krmuth.github.io/plot-gr/visualisations/crusoe/verbs/) ([source](https://github.com/krmuth/plot-gr/blob/3d-vis/visualisations/crusoe/verbs/index.html)) 
