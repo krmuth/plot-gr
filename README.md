@@ -1,7 +1,7 @@
 # Plotting *Gravity's Rainbow*
-## Supporting Files for Katie Muth, 'Digital Readings', in *The New Pynchon Studies*, ed. Joanna Freer (Cambridge: Cambridge University Press, 2019)
+## Supporting Files for Katie Muth, 'Digital Readings', in *The New Pynchon Studies*, ed. Joanna Freer (Cambridge: Cambridge University Press, 2019) 
 
-This repository stores network visualizations of Thomas Pynchon's Gravity's Rainbow developed with David McClure's <a href = "https://github.com/davidmcclure/textplot">Textplot</a> and rendered first in <a href = "https://gephi.org/">Gephi</a> and then as a 3D force graph using ThreeJS/WebGL (see <a href = "https://github.com/vasturiano/3d-force-graph">3d-force-graph</a>). 
+This repository stores 3D network visualizations of eight novels, including Gravity's Rainbow, developed with David McClure's <a href = "https://github.com/davidmcclure/textplot">Textplot</a> and rendered first in <a href = "https://gephi.org/">Gephi</a> and then as a 3D force graph using <a href = "https://github.com/mrdoob/three.js/">ThreeJS</a>/WebGL (see <a href = "https://github.com/vasturiano/3d-force-graph">3d-force-graph</a>). 
 
 ## 3D renderings
 
