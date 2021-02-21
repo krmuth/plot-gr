@@ -2,10 +2,11 @@
 
 This repository stores 3D network visualizations of eight novels, including *Gravity's Rainbow*, developed with David McClure's <a href = "https://github.com/davidmcclure/textplot">Textplot</a> and rendered first in <a href = "https://gephi.org/">Gephi</a> and then as a 3D force graph using <a href = "https://github.com/mrdoob/three.js/">ThreeJS</a>/WebGL (see <a href = "https://github.com/vasturiano/3d-force-graph">3d-force-graph</a>). 
 
-## Print publication and slides
+## Print publications and slides
 
 * [Katie Muth, 'Digital Readings'](https://doi.org/10.1017/9781108608916.011), in *The New Pynchon Studies*, ed. Joanna Freer (Cambridge: Cmabridge University Press, 2019) 
 * [Katie Muth, 'Finding Pynchon'](https://slides.com/kmuth/finding-pynchon/), keynote presentation at *Synergies. Bridging the Gap between Traditional and Digital Literary Studies*, Network for Digital Literary Studies, Copenhagan, Sep 2020
+* [Katie Muth, 'The Grammars of the System: Thomas Pynchon at Boeing](https://doi.org/10.1080/0950236X.2019.1580514), *Textual Practice* 33.3 (2019): 473–493
 
 ## 3D renderings
 
