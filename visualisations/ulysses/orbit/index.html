@@ -21,7 +21,7 @@
 //         }))
 //     };
 
-    const distance = 600;
+    const distance = 800;
 
     const Graph = ForceGraph3D()
       (document.getElementById('3d-graph'))
@@ -41,7 +41,7 @@
         x: distance * Math.sin(angle),
         z: distance * Math.cos(angle)
       });
-      angle += Math.PI / 180;
+      angle += Math.PI / 300;
     }, 60);
   </script>
 </body>
