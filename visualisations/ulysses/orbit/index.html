@@ -21,7 +21,7 @@
         }))
     };
 
-    const distance = 1400;
+    const distance = 600;
 
     const Graph = ForceGraph3D()
       (document.getElementById('3d-graph'))
@@ -32,13 +32,13 @@
         .graphData(gData);
 
     // camera orbit
-    let angle = 0;
+    let angle = 60;
     setInterval(() => {
       Graph.cameraPosition({
         x: distance * Math.sin(angle),
         z: distance * Math.cos(angle)
       });
       angle += Math.PI / 300;
-    }, 100);
+    }, 60);
   </script>
 </body>
