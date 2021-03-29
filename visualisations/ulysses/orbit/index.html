@@ -10,26 +10,28 @@
 
   <script>
     // Random tree
-    const N = 300;
-    const gData = {
-      nodes: [...Array(N).keys()].map(i => ({ id: i })),
-      links: [...Array(N).keys()]
-        .filter(id => id)
-        .map(id => ({
-          source: id,
-          target: Math.round(Math.random() * (id-1))
-        }))
-    };
+//     const N = 300;
+//     const gData = {
+//       nodes: [...Array(N).keys()].map(i => ({ id: i })),
+//       links: [...Array(N).keys()]
+//         .filter(id => id)
+//         .map(id => ({
+//           source: id,
+//           target: Math.round(Math.random() * (id-1))
+//         }))
+//     };
 
     const distance = 600;
 
     const Graph = ForceGraph3D()
       (document.getElementById('3d-graph'))
+        .jsonUrl('https://raw.githubusercontent.com/krmuth/plot-gr/3d-vis/visualisations/datasets/ulysses-verbless.json')
+        .nodeAutoColorBy('group')
         .enableNodeDrag(false)
         .enableNavigationControls(false)
         .showNavInfo(false)
         .cameraPosition({ z: distance })
-        .graphData(gData);
+//         .graphData(gData);
 
     // camera orbit
     let angle = 60;
