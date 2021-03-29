@@ -21,16 +21,19 @@
 //         }))
 //     };
 
-    const distance = 600;
+    const distance = 1000;
 
     const Graph = ForceGraph3D()
       (document.getElementById('3d-graph'))
         .jsonUrl('https://raw.githubusercontent.com/krmuth/plot-gr/3d-vis/visualisations/datasets/ulysses-verbless.json')
         .nodeAutoColorBy('group')
+        .nodeVisibility(false)
         .enableNodeDrag(false)
         .enableNavigationControls(false)
         .showNavInfo(false)
-        .cameraPosition({ z: distance })
+        .cameraPosition({ z: distance, 
+                          x: 600 
+                        })
 //         .graphData(gData);
 
     // camera orbit
