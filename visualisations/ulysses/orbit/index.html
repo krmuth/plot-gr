@@ -20,13 +20,13 @@
           // use a sphere as a drag handle
           const obj = new THREE.Mesh(
             new THREE.SphereGeometry(10),
-            new THREE.MeshBasicMaterial({ depthWrite: false, transparent: true, opacity: 0 })
+            new THREE.MeshBasicMaterial({ depthWrite: false, transparent: true, opacity: 0 }))
         .enableNodeDrag(false)
         .enableNavigationControls(false)
         .showNavInfo(false)
         .cameraPosition({ z: distance })
         .graphData(gData);
-          );
+          
 
           // add text sprite as child
           const sprite = new SpriteText(node.label);
