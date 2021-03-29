@@ -16,11 +16,11 @@
       (document.getElementById('3d-graph'))
         .jsonUrl('https://raw.githubusercontent.com/krmuth/plot-gr/3d-vis/visualisations/datasets/ulysses-verbless.json')
         .nodeAutoColorBy('group')
-       // .nodeThreeObject(node => {
+        .nodeThreeObject(node => {
           // use a sphere as a drag handle
-       //   const obj = new THREE.Mesh(
-       //     new THREE.SphereGeometry(10),
-       //     new THREE.MeshBasicMaterial({ depthWrite: false, transparent: true, opacity: 0 })
+          const obj = new THREE.Mesh(
+            new THREE.SphereGeometry(10),
+            new THREE.MeshBasicMaterial({ depthWrite: false, transparent: true, opacity: 0 })
         .enableNodeDrag(false)
         .enableNavigationControls(false)
         .showNavInfo(false)
@@ -28,15 +28,15 @@
         .graphData(gData);
           );
 
-//           // add text sprite as child
-//           const sprite = new SpriteText(node.label);
-//           sprite.color = node.color;
-//           sprite.textHeight = 8;
-//           sprite.backgroundColor = 'hsla(0, 0%, 0%, 0.2)'; 
-//           obj.add(sprite);
+          // add text sprite as child
+          const sprite = new SpriteText(node.label);
+          sprite.color = node.color;
+          sprite.textHeight = 8;
+          sprite.backgroundColor = 'hsla(0, 0%, 0%, 0.2)'; 
+          obj.add(sprite);
 
-//           return obj;
-//         });
+          return obj;
+        });
     
         // camera orbit
          let angle = 0;
