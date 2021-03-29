@@ -31,19 +31,17 @@
         .enableNodeDrag(false)
         .enableNavigationControls(false)
         .showNavInfo(false)
-        .cameraPosition({ z: distance, 
-                          x: 600 
-                        })
+        .cameraPosition({ z: distance })
 //         .graphData(gData);
 
     // camera orbit
-    let angle = 60;
+    let angle = 0;
     setInterval(() => {
       Graph.cameraPosition({
         x: distance * Math.sin(angle),
         z: distance * Math.cos(angle)
       });
-      angle += Math.PI / 300;
+      angle += Math.PI / 64;
     }, 60);
   </script>
 </body>
