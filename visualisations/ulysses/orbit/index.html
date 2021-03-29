@@ -32,13 +32,13 @@
         .graphData(gData);
 
     // camera orbit
-    let angle = 90;
+    let angle = 0;
     setInterval(() => {
       Graph.cameraPosition({
         x: distance * Math.sin(angle),
         z: distance * Math.cos(angle)
       });
       angle += Math.PI / 300;
-    }, 2);
+    }, 100);
   </script>
 </body>
