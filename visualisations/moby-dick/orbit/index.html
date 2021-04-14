@@ -1,0 +1,42 @@
+<head>
+  <style> 
+    
+    body { 
+      margin: 0;
+    } 
+    
+  </style>
+
+  <script src="//unpkg.com/3d-force-graph"></script>
+  <!--<script src="../../dist/3d-force-graph.js"></script>-->
+</head>
+
+<body>
+  <div id="3d-graph"></div>
+
+  <script>
+
+    const distance = 500;
+
+    const Graph = ForceGraph3D()
+      (document.getElementById('3d-graph'))
+        .jsonUrl('https://raw.githubusercontent.com/krmuth/plot-gr/visualisations/datasets/moby-dick-verbless.json')
+        .nodeAutoColorBy('group')
+        .nodeVisibility(false)
+        .enableNodeDrag(false)
+        .enableNavigationControls(false)
+        .showNavInfo(false)
+        .cameraPosition({ z: distance });
+
+    // camera orbit
+    let angle = 0;
+    setInterval(() => {
+      Graph.cameraPosition({
+        x: distance * Math.sin(angle),
+        z: distance * Math.cos(angle),
+        y: distance * Math.cos(angle)
+      });
+      angle += Math.PI / 300;
+    }, 60);
+  </script>
+</body>
