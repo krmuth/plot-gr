@@ -1,230 +1,4 @@
 {
-    "links": [
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "66",
-            "size": 1.0,
-            "source": "Michael Redgrave",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "44",
-            "size": 1.0,
-            "source": "Cyril Dean Darlington",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "45",
-            "size": 1.0,
-            "source": "Franz Borkenau",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "42",
-            "size": 1.0,
-            "source": "Arthur Koestler",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "60",
-            "size": 1.0,
-            "source": "Malcom Muggeride",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "46",
-            "size": 2.0,
-            "source": "Victor Gollancz",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "54",
-            "size": 1.0,
-            "source": "Tony Benn",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "71",
-            "size": 1.0,
-            "source": "Fredic Warburg",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "70",
-            "size": 1.0,
-            "source": "Sonia Blair",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "64",
-            "size": 1.0,
-            "source": "Orson Welles",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "62",
-            "size": 1.0,
-            "source": "Cecil Day Lewis",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "69",
-            "size": 1.0,
-            "source": "Joseph Bryan III",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "57",
-            "size": 1.0,
-            "source": "Bertrand Russell",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "68",
-            "size": 1.0,
-            "source": "T. S. Eliot",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "43",
-            "size": 2.0,
-            "source": "D'Arcy Gillie",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "58",
-            "size": 1.0,
-            "source": "Vic Feather",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "65",
-            "size": 1.0,
-            "source": "Paul Robeson",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "49",
-            "size": 1.0,
-            "source": "Naval Commander Young",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "51",
-            "size": 1.0,
-            "source": "Cecilia Kirwan",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "63",
-            "size": 1.0,
-            "source": "Sean O'Casey",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "47",
-            "size": 1.0,
-            "source": "Victor Gollancz",
-            "target": "Koestler, Arthur"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "59",
-            "size": 1.0,
-            "source": "V. Puchev",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "53",
-            "size": 1.0,
-            "source": "Michael Foot",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "48",
-            "size": 2.0,
-            "source": "Gleb Struve",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "67",
-            "size": 1.0,
-            "source": "Kingsley Martin",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "50",
-            "size": 1.0,
-            "source": "Anna Paulsen",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "72",
-            "size": 1.0,
-            "source": "Information Research Department",
-            "target": "Orwell, George"
-        },
-        {
-            "attributes": {},
-            "color": "rgb(255,255,255)",
-            "id": "61",
-            "size": 1.0,
-            "source": "J. B. Priestley",
-            "target": "Orwell, George"
-        }
-    ],
     "nodes": [
         {
             "attributes": {},
@@ -486,6 +260,232 @@
             "size": 10.0,
             "x": -775.2932739257812,
             "y": -442.037353515625
+        }
+    ],
+        "links": [
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "66",
+            "size": 1.0,
+            "source": "Michael Redgrave",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "44",
+            "size": 1.0,
+            "source": "Cyril Dean Darlington",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "45",
+            "size": 1.0,
+            "source": "Franz Borkenau",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "42",
+            "size": 1.0,
+            "source": "Arthur Koestler",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "60",
+            "size": 1.0,
+            "source": "Malcom Muggeride",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "46",
+            "size": 2.0,
+            "source": "Victor Gollancz",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "54",
+            "size": 1.0,
+            "source": "Tony Benn",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "71",
+            "size": 1.0,
+            "source": "Fredic Warburg",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "70",
+            "size": 1.0,
+            "source": "Sonia Blair",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "64",
+            "size": 1.0,
+            "source": "Orson Welles",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "62",
+            "size": 1.0,
+            "source": "Cecil Day Lewis",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "69",
+            "size": 1.0,
+            "source": "Joseph Bryan III",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "57",
+            "size": 1.0,
+            "source": "Bertrand Russell",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "68",
+            "size": 1.0,
+            "source": "T. S. Eliot",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "43",
+            "size": 2.0,
+            "source": "D'Arcy Gillie",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "58",
+            "size": 1.0,
+            "source": "Vic Feather",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "65",
+            "size": 1.0,
+            "source": "Paul Robeson",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "49",
+            "size": 1.0,
+            "source": "Naval Commander Young",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "51",
+            "size": 1.0,
+            "source": "Cecilia Kirwan",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "63",
+            "size": 1.0,
+            "source": "Sean O'Casey",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "47",
+            "size": 1.0,
+            "source": "Victor Gollancz",
+            "target": "Koestler, Arthur"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "59",
+            "size": 1.0,
+            "source": "V. Puchev",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "53",
+            "size": 1.0,
+            "source": "Michael Foot",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "48",
+            "size": 2.0,
+            "source": "Gleb Struve",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "67",
+            "size": 1.0,
+            "source": "Kingsley Martin",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "50",
+            "size": 1.0,
+            "source": "Anna Paulsen",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "72",
+            "size": 1.0,
+            "source": "Information Research Department",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "61",
+            "size": 1.0,
+            "source": "J. B. Priestley",
+            "target": "Orwell, George"
         }
     ]
 }
