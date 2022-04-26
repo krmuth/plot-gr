@@ -1,0 +1,712 @@
+{
+    "links": [
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "30",
+            "size": 1.0,
+            "source": "Information Research Department",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "15",
+            "size": 1.0,
+            "source": "Bertrand Russell",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "29",
+            "size": 1.0,
+            "source": "Fredic Warburg",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "12",
+            "size": 1.0,
+            "source": "Tony Benn",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "33",
+            "size": 1.0,
+            "source": "John Beavan, Baron Ardwick",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "41",
+            "size": 1.0,
+            "source": "Tom Driberg",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "7",
+            "size": 1.0,
+            "source": "Naval Commander Young",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "28",
+            "size": 1.0,
+            "source": "Sonia Blair",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "1",
+            "size": 1.0,
+            "source": "D'Arcy Gillie",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "0",
+            "size": 1.0,
+            "source": "Arthur Koestler",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "8",
+            "size": 1.0,
+            "source": "Anna Paulsen",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "4",
+            "size": 1.0,
+            "source": "Victor Gollancz",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "6",
+            "size": 1.0,
+            "source": "Gleb Struve",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "43",
+            "size": 1.0,
+            "source": "Douglas Goldring",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "21",
+            "size": 1.0,
+            "source": "Sean O'Casey",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "26",
+            "size": 1.0,
+            "source": "T. S. Eliot",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "35",
+            "size": 1.0,
+            "source": "Edward Hallet Carr",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "16",
+            "size": 1.0,
+            "source": "Vic Feather",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "38",
+            "size": 1.0,
+            "source": "Arthur Calder-Marshall",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "9",
+            "size": 1.0,
+            "source": "Cecilia Kirwan",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "24",
+            "size": 1.0,
+            "source": "Michael Redgrave",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "25",
+            "size": 1.0,
+            "source": "Kingsley Martin",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "32",
+            "size": 1.0,
+            "source": "Guy Alfred Aldred",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "11",
+            "size": 1.0,
+            "source": "Michael Foot",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "17",
+            "size": 1.0,
+            "source": "V. Puchev",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "3",
+            "size": 1.0,
+            "source": "Franz Borkenau",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "37",
+            "size": 1.0,
+            "source": "James Gerald Crowther",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "39",
+            "size": 1.0,
+            "source": "Isaac Deutscher",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "42",
+            "size": 1.0,
+            "source": "Cedric Cyril Dover",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "20",
+            "size": 1.0,
+            "source": "Cecil Day Lewis",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "5",
+            "size": 1.0,
+            "source": "Victor Gollancz",
+            "target": "Koestler, Arthur"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "36",
+            "size": 1.0,
+            "source": "Charles Spencer Chaplin Junior",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "19",
+            "size": 1.0,
+            "source": "J. B. Priestley",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "34",
+            "size": 1.0,
+            "source": "Patrick Maynard Stuart Blackett",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "2",
+            "size": 1.0,
+            "source": "Cyril Dean Darlington",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "22",
+            "size": 1.0,
+            "source": "Orson Welles",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "31",
+            "size": 1.0,
+            "source": "John Anderson",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "27",
+            "size": 1.0,
+            "source": "Joseph Bryan III",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "18",
+            "size": 1.0,
+            "source": "Malcom Muggeride",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "40",
+            "size": 1.0,
+            "source": "Walter Duranty",
+            "target": "Orwell, George"
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "23",
+            "size": 1.0,
+            "source": "Paul Robeson",
+            "target": "Orwell, George"
+        }
+    ],
+    "nodes": [
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Arthur Koestler",
+            "label": "Arthur Koestler",
+            "size": 10.0,
+            "x": 505.9747314453125,
+            "y": -471.9474792480469
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Walter Duranty",
+            "label": "Walter Duranty",
+            "size": 10.0,
+            "x": -634.0104370117188,
+            "y": -292.1433410644531
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Orson Welles",
+            "label": "Orson Welles",
+            "size": 10.0,
+            "x": 554.0792846679688,
+            "y": 383.5096740722656
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Orwell, George",
+            "label": "Orwell, George",
+            "size": 10.0,
+            "x": -28.76805305480957,
+            "y": -11.654036521911621
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Gleb Struve",
+            "label": "Gleb Struve",
+            "size": 10.0,
+            "x": -168.80618286132812,
+            "y": 444.9291076660156
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Michael Redgrave",
+            "label": "Michael Redgrave",
+            "size": 10.0,
+            "x": 263.8746337890625,
+            "y": 431.9755554199219
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Tom Driberg",
+            "label": "Tom Driberg",
+            "size": 10.0,
+            "x": -223.9553985595703,
+            "y": -151.4557647705078
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "James Gerald Crowther",
+            "label": "James Gerald Crowther",
+            "size": 10.0,
+            "x": -35.14213180541992,
+            "y": 702.8311157226562
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Michael Foot",
+            "label": "Michael Foot",
+            "size": 10.0,
+            "x": 429.42755126953125,
+            "y": 560.6600952148438
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Guy Alfred Aldred",
+            "label": "Guy Alfred Aldred",
+            "size": 10.0,
+            "x": 155.4475860595703,
+            "y": 97.63935089111328
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Arthur Calder-Marshall",
+            "label": "Arthur Calder-Marshall",
+            "size": 10.0,
+            "x": -468.879638671875,
+            "y": -72.68289947509766
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Sonia Blair",
+            "label": "Sonia Blair",
+            "size": 10.0,
+            "x": -686.2229614257812,
+            "y": 149.716064453125
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Fredic Warburg",
+            "label": "Fredic Warburg",
+            "size": 10.0,
+            "x": 352.92791748046875,
+            "y": -312.3631591796875
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "D'Arcy Gillie",
+            "label": "D'Arcy Gillie",
+            "size": 10.0,
+            "x": 334.184814453125,
+            "y": -604.714111328125
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Information Research Department",
+            "label": "Information Research Department",
+            "size": 10.0,
+            "x": 308.1791076660156,
+            "y": -41.20576095581055
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Anna Paulsen",
+            "label": "Anna Paulsen",
+            "size": 10.0,
+            "x": -233.6383056640625,
+            "y": -413.3331604003906
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "T. S. Eliot",
+            "label": "T. S. Eliot",
+            "size": 10.0,
+            "x": 80.58926391601562,
+            "y": 290.4170227050781
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Charles Spencer Chaplin Junior",
+            "label": "Charles Spencer Chaplin Junior",
+            "size": 10.0,
+            "x": 674.899169921875,
+            "y": 204.5780487060547
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Tony Benn",
+            "label": "Tony Benn",
+            "size": 10.0,
+            "x": -256.380615234375,
+            "y": 645.9580078125
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "V. Puchev",
+            "label": "V. Puchev",
+            "size": 10.0,
+            "x": -105.60910034179688,
+            "y": -693.206787109375
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Cecilia Kirwan",
+            "label": "Cecilia Kirwan",
+            "size": 10.0,
+            "x": 209.4231414794922,
+            "y": 668.0241088867188
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "John Beavan, Baron Ardwick",
+            "label": "John Beavan, Baron Ardwick",
+            "size": 10.0,
+            "x": 127.58145904541016,
+            "y": -682.2164916992188
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "J. B. Priestley",
+            "label": "J. B. Priestley",
+            "size": 10.0,
+            "x": -689.2416381835938,
+            "y": -74.84574890136719
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Victor Gollancz",
+            "label": "Victor Gollancz",
+            "size": 10.0,
+            "x": 498.03460693359375,
+            "y": -145.9883575439453
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Franz Borkenau",
+            "label": "Franz Borkenau",
+            "size": 10.0,
+            "x": -265.7529296875,
+            "y": 63.24515151977539
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Isaac Deutscher",
+            "label": "Isaac Deutscher",
+            "size": 10.0,
+            "x": -591.1893920898438,
+            "y": 364.5428161621094
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Joseph Bryan III",
+            "label": "Joseph Bryan III",
+            "size": 10.0,
+            "x": 149.09934997558594,
+            "y": -185.41709899902344
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Cyril Dean Darlington",
+            "label": "Cyril Dean Darlington",
+            "size": 10.0,
+            "x": -344.14605712890625,
+            "y": 322.55364990234375
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Koestler, Arthur",
+            "label": "Koestler, Arthur",
+            "size": 10.0,
+            "x": 646.8322143554688,
+            "y": -290.889404296875
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Naval Commander Young",
+            "label": "Naval Commander Young",
+            "size": 10.0,
+            "x": -316.06640625,
+            "y": -617.2680053710938
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Kingsley Martin",
+            "label": "Kingsley Martin",
+            "size": 10.0,
+            "x": -119.57630920410156,
+            "y": 215.69769287109375
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Sean O'Casey",
+            "label": "Sean O'Casey",
+            "size": 10.0,
+            "x": 496.5699768066406,
+            "y": 92.19762420654297
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "John Anderson",
+            "label": "John Anderson",
+            "size": 10.0,
+            "x": -473.70928955078125,
+            "y": 150.0915985107422
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Douglas Goldring",
+            "label": "Douglas Goldring",
+            "size": 10.0,
+            "x": -409.01953125,
+            "y": -283.20367431640625
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Malcom Muggeride",
+            "label": "Malcom Muggeride",
+            "size": 10.0,
+            "x": -499.58111572265625,
+            "y": -488.13897705078125
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Vic Feather",
+            "label": "Vic Feather",
+            "size": 10.0,
+            "x": 40.656620025634766,
+            "y": 505.3394775390625
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Paul Robeson",
+            "label": "Paul Robeson",
+            "size": 10.0,
+            "x": 352.7568054199219,
+            "y": 242.35891723632812
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Cecil Day Lewis",
+            "label": "Cecil Day Lewis",
+            "size": 10.0,
+            "x": 179.1560516357422,
+            "y": -433.2492370605469
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Edward Hallet Carr",
+            "label": "Edward Hallet Carr",
+            "size": 10.0,
+            "x": -443.3526916503906,
+            "y": 530.7833862304688
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Cedric Cyril Dover",
+            "label": "Cedric Cyril Dover",
+            "size": 10.0,
+            "x": -41.10191345214844,
+            "y": -267.7907409667969
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Bertrand Russell",
+            "label": "Bertrand Russell",
+            "size": 10.0,
+            "x": -26.04325294494629,
+            "y": -494.1788024902344
+        },
+        {
+            "attributes": {},
+            "color": "rgb(255,255,255)",
+            "id": "Patrick Maynard Stuart Blackett",
+            "label": "Patrick Maynard Stuart Blackett",
+            "size": 10.0,
+            "x": 700.4990234375,
+            "y": -39.155006408691406
+        }
+    ]
+}
