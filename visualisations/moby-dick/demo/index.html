@@ -11,14 +11,12 @@
 
   <script type="importmap">{ "imports": { "three": "//unpkg.com/three/build/three.module.js" }}</script>
   <script type="module">
-    import SpriteText from "//unpkg.com/three-spritetext/dist/three-spritetext.mjs";
 
         const Graph = ForceGraph3D()
       (document.getElementById('3d-graph'))
         .jsonUrl('https://raw.githubusercontent.com/krmuth/plot-gr/3d-vis/visualisations/datasets/moby-dick-verbless.json')
         .nodeAutoColorBy('group')
-
-        );
+        .nodeVisibility(false);
 
     // Spread nodes a little wider
     Graph.d3Force('charge').strength(-120);
