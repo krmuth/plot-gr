@@ -17,9 +17,9 @@
       (document.getElementById('3d-graph'))
         .jsonUrl('https://raw.githubusercontent.com/krmuth/plot-gr/refs/heads/master/visualisations/datasets/1667-books-1.json')
         .nodeThreeObject(node => {
-          const sprite = new SpriteText(node.label);
+          const sprite = new SpriteText(node.attributes.label);
           sprite.material.depthWrite = false; // make sprite background transparent
-          sprite.color = node.color;
+          sprite.color = node.attributes.color;
           sprite.textHeight = 8;
           return sprite;
         });
